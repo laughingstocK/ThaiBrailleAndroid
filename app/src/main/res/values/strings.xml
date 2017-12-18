@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThaiBraille</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="accessibility_service_label">Thai Braille</string>
+    <string name="accessibility_service_description">Service Description</string>
+    <string name="scan_connecting">Connecting…</string>
+</resources>
